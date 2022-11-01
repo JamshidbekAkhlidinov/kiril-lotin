@@ -1,6 +1,6 @@
 <?php
 
-// namespace jamshidbekakhlidinov;
+namespace jamshidbekakhlidinov;
 
 class KrilLotin {
 
