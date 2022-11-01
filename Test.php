@@ -1,6 +1,6 @@
 <?php
 
-include "../../../vendor/autoload.php";
+include "./src/KrilLotin.php";
 
 use jamshidbekakhlidinov\KrilLotin;
 

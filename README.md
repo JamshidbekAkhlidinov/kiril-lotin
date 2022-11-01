@@ -1,7 +1,8 @@
 # Kiril-Lotin
 
     <?php
-    include "../../../vendor/autoload.php";
+    include "./src/KrilLotin.php";
+
     use jamshidbekakhlidinov\KrilLotin;
 
 
@@ -19,4 +20,4 @@
 
 **Kutubxonani o'rnatish**
 
-    composer require jamshidbekakhlidinov/kiril-lotin:dev-main
+    composer require jamshidbekakhlidinov/kiril-lotin
