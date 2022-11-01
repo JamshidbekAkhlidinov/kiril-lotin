@@ -1,7 +1,9 @@
 # Kiril-Lotin
 
     <?php
-    include_once "./KrilLotin.php";
+    include "../../../vendor/autoload.php";
+    use jamshidbekakhlidinov\KrilLotin;
+
 
     $textK = "Ўзбекистон бўйлаб иссиқхоналарнинг газдан узилгани ва қайта улангани";
 
@@ -14,3 +16,7 @@
 
 
     ?>
+
+**Kutubxonani o'rnatish**
+
+    composer require jamshidbekakhlidinov/kiril-lotin:dev-main
