@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "KirilLotin\\": "src/"
+            "jamshidbekakhlidinov\\KirilLotin\\": "src/"
         }
     },
     "authors": [
@@ -14,8 +14,9 @@
             "email": "jamshidbekakhlidinov@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
-        "php": ">=7.4.0"
+        "php": ">=7.1",
+        "ext-json": "*",
+        "ext-curl": "*"
     }
 }
