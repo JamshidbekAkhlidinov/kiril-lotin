@@ -1,7 +1,7 @@
 # Kiril-Lotin
 
     <?php
-    include "vendor/au";
+    include "vendor/autoload.php";
 
     use ustadev\text\KrilLotin;
 
@@ -20,4 +20,4 @@
 
 **Kutubxonani o'rnatish**
 
-    composer require jamshidbekakhlidinov/kiril-lotin
+    composer require ustadev/kiril-lotin
