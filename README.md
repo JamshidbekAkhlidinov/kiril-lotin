@@ -1,9 +1,9 @@
 # Kiril-Lotin
 
     <?php
-    include "./src/KrilLotin.php";
+    include "vendor/au";
 
-    use jamshidbekakhlidinov\KrilLotin;
+    use ustadev\text\KrilLotin;
 
 
     $textK = "Ўзбекистон бўйлаб иссиқхоналарнинг газдан узилгани ва қайта улангани";

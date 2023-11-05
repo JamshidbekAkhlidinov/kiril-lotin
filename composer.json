@@ -1,19 +1,17 @@
 {
-    "name": "jamshidbekakhlidinov/kiril-lotin",
+    "name": "ustadev/kiril-lotin",
     "description": "Kiril-Lotin converter",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "jamshidbekakhlidinov\\": "src/"
+            "ustadev\\text\\": "src/"
         }
     },
-    "authors": [
-        {
-            "name": "Jamshidbek Akhlidinov",
-            "email": "jamshidbekakhlidinov@gmail.com"
-        }
-    ],
+    "authors": [{
+        "name": "Jamshidbek Akhlidinov",
+        "email": "jamshidbekakhlidinov@gmail.com"
+    }],
     "require": {
         "php": ">=7.1",
         "ext-json": "*",
